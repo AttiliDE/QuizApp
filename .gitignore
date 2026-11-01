@@ -36,3 +36,6 @@ conda-meta/
 
 # Logs
 *.log
+
+# JavaScript dependencies
+node_modules/
